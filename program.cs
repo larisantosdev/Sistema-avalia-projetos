@@ -15,26 +15,9 @@ class Projeto{
     
     return (Satisfacao + Qualidade + Prazo) / 3.0;
     
-  }
-  
-
-// TODO: Crie a Classe que representa um Projeto com suas informações
-
-     // Nome do projeto
-    // Nome do consultor
-    // Nota de qualidade
-    // Nota de prazo
-    // Nota de satisfação
-
-    // TODO: Crie o método que calcula a média das notas
-   
+  } 
 
     // Método que imprime as informações no formato solicitado
-    
-    
-    
-    
-    
     public void ExibirInformacoes()
     {
         Console.WriteLine($"Projeto: {Nome}");
