@@ -1,0 +1,15 @@
+C:\Users\larid\OneDrive\Desktop\Projetos\SistemaAvaliaProjetos\bin\Debug\net10.0\SistemaAvaliaProjetos.exe
+C:\Users\larid\OneDrive\Desktop\Projetos\SistemaAvaliaProjetos\bin\Debug\net10.0\SistemaAvaliaProjetos.deps.json
+C:\Users\larid\OneDrive\Desktop\Projetos\SistemaAvaliaProjetos\bin\Debug\net10.0\SistemaAvaliaProjetos.runtimeconfig.json
+C:\Users\larid\OneDrive\Desktop\Projetos\SistemaAvaliaProjetos\bin\Debug\net10.0\SistemaAvaliaProjetos.dll
+C:\Users\larid\OneDrive\Desktop\Projetos\SistemaAvaliaProjetos\bin\Debug\net10.0\SistemaAvaliaProjetos.pdb
+C:\Users\larid\OneDrive\Desktop\Projetos\SistemaAvaliaProjetos\obj\Debug\net10.0\SistemaAvaliaProjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larid\OneDrive\Desktop\Projetos\SistemaAvaliaProjetos\obj\Debug\net10.0\SistemaAvaliaProjetos.AssemblyInfoInputs.cache
+C:\Users\larid\OneDrive\Desktop\Projetos\SistemaAvaliaProjetos\obj\Debug\net10.0\SistemaAvaliaProjetos.AssemblyInfo.cs
+C:\Users\larid\OneDrive\Desktop\Projetos\SistemaAvaliaProjetos\obj\Debug\net10.0\SistemaAvaliaProjetos.csproj.CoreCompileInputs.cache
+C:\Users\larid\OneDrive\Desktop\Projetos\SistemaAvaliaProjetos\obj\Debug\net10.0\SistemaAvaliaProjetos.sourcelink.json
+C:\Users\larid\OneDrive\Desktop\Projetos\SistemaAvaliaProjetos\obj\Debug\net10.0\SistemaAvaliaProjetos.dll
+C:\Users\larid\OneDrive\Desktop\Projetos\SistemaAvaliaProjetos\obj\Debug\net10.0\refint\SistemaAvaliaProjetos.dll
+C:\Users\larid\OneDrive\Desktop\Projetos\SistemaAvaliaProjetos\obj\Debug\net10.0\SistemaAvaliaProjetos.pdb
+C:\Users\larid\OneDrive\Desktop\Projetos\SistemaAvaliaProjetos\obj\Debug\net10.0\SistemaAvaliaProjetos.genruntimeconfig.cache
+C:\Users\larid\OneDrive\Desktop\Projetos\SistemaAvaliaProjetos\obj\Debug\net10.0\ref\SistemaAvaliaProjetos.dll

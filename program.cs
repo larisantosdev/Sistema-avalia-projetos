@@ -2,19 +2,19 @@
 using System.Globalization;
 using SistemaAvaliaProjetos.Models;
 
-class Program
-{
-    static void Main()
-    {
-        string linhaProjeto = Console.ReadLine(); 
-        string nomeProjeto = linhaProjeto.Substring(9); 
 
-        string linhaConsultor = Console.ReadLine(); 
-        string nomeConsultor = linhaConsultor.Substring(11); 
+        Console.WriteLine("Digite os dados do projeto:");
+        string nomeProjeto = Console.ReadLine();
+
+        //string nomeProjeto = linhaProjeto.Substring(9); 
+
+        string nomeConsultor = Console.ReadLine(); 
+        //string nomeConsultor = linhaConsultor.Substring(11); 
         
-        string linhaNotas = Console.ReadLine(); 
-        string notasApenas = linhaNotas.Substring(7); 
-        string[] partes = notasApenas.Split(", "); 
+        string notasApenas = Console.ReadLine(); 
+        //string notasApenas = linhaNotas.Substring(7);
+        
+        string[] partes = notasApenas.Split(" "); 
 
         // Criação do objeto Projeto com os dados extraídos
         Projeto projeto = new Projeto
@@ -27,5 +27,3 @@ class Program
         };
 
         projeto.ExibirInformacoes();
-    }
-}

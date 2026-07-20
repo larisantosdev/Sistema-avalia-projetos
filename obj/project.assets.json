@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\larid\\OneDrive\\Desktop\\Projetos\\github\\github.csproj",
-      "projectName": "github",
-      "projectPath": "C:\\Users\\larid\\OneDrive\\Desktop\\Projetos\\github\\github.csproj",
+      "projectUniqueName": "C:\\Users\\larid\\OneDrive\\Desktop\\Projetos\\SistemaAvaliaProjetos\\SistemaAvaliaProjetos.csproj",
+      "projectName": "SistemaAvaliaProjetos",
+      "projectPath": "C:\\Users\\larid\\OneDrive\\Desktop\\Projetos\\SistemaAvaliaProjetos\\SistemaAvaliaProjetos.csproj",
       "packagesPath": "C:\\Users\\larid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\larid\\OneDrive\\Desktop\\Projetos\\github\\obj\\",
+      "outputPath": "C:\\Users\\larid\\OneDrive\\Desktop\\Projetos\\SistemaAvaliaProjetos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\larid\\AppData\\Roaming\\NuGet\\NuGet.Config"
